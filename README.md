@@ -1,9 +1,9 @@
-## Hi, I'm Dasha
-I am a software developer with a diverse background in RevOps, consulting, marketing, and sales. My journey into programming began when my team solved a months-long business problem with just a few lines of code, sparking my fascination with web development. 
+## Hi, I'm Dasha 👋
+I am a frontend software developer with a diverse background in RevOps, consulting, marketing, and sales. My journey into programming began when my team solved a months-long business problem with just a few lines of code, sparking my fascination with web development. 
 
 I currently work as a junior front-end developer at Birdie and am studying Node.js and Express to become a full-stack developer. 
 
-####  My Stats and tools used:
+####  My stats and tools used:
 </br>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
