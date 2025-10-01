@@ -1,4 +1,2 @@
 ## Hi, I'm Dasha 👋
-I am a frontend engineer with a diverse background in consulting, marketing and sales. My journey into programming began when my team solved a months-long business problem with just a few lines of code, sparking my fascination with web development. 
-
-I’m currently working as a front-end developer at Birdie while also gaining full-stack development experience through a freelance project.
+Frontend developer with 2+ years of experience building scalable, production-ready React applications. Skilled in translating business needs into user-friendly interfaces, collaborating with cross-functional teams, and improving developer experience through testing and design system maintenance.
